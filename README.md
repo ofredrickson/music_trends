@@ -9,5 +9,5 @@ Spotify dataset with 160k tracks including audio features and release year.
 
 ## How to Run
 1. Open notebook in Google Colab
-2. Upload dataset
+2. Upload dataset (I named it "spotifysongs.csv": https://www.kaggle.com/datasets/fcpercival/160k-spotify-songs-sorted?resource=download&select=Spotify+Data.ipynb
 3. Run all cells
